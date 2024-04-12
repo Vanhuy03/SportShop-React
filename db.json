@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm chất",
+      "price": 200,
+      "image": "https://templatemo.com/templates/templatemo_559_zay_shop/assets/img/feature_prod_01.jpg",
+      "desc": "Good chop",
+      "id": 2
+    },
+    {
+      "name": "Sản phẩm 3 chat",
+      "price": 300000,
+      "image": "https://templatemo.com/templates/templatemo_559_zay_shop/assets/img/feature_prod_03.jpg",
+      "desc": "sản phẩm đẹp nhất 2023\n",
+      "id": 3
+    },
+    {
+      "name": "Product 312",
+      "price": 5000,
+      "image": "https://templatemo.com/templates/templatemo_559_zay_shop/assets/img/feature_prod_03.jpg",
+      "desc": "Good chop",
+      "id": 4
+    }
+  ],
+  "users": [
+  
+    {
+      "email": "admin2003@gmail.com",
+      "password": "$2a$10$IPHQ9UYjHPFQh.vQrrxlVOAGbWG4mndE787GAs3TxuwvKQOVcbp3K",
+      "name": "Nguyễn Văn Huy",
+      "roles": "admin",
+      "confirmPassword": "huy04072003",
+      "id": 3
+    },
+    {
+      "email": "messi@gmail.com",
+      "password": "$2a$10$Jtr0c7Fa4YKq0B8Iw73pdOO9CCsuph54x7/q3F09RJusLrGSlfEHG",
+      "name": "leomessi",
+      "confirmPassword": "123456",
+      "id": 4
+    }
+  ]
+}
